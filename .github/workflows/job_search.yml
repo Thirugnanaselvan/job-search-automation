@@ -2,7 +2,7 @@ name: Daily Job Email Automation
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'   # runs at 12 AM UTC daily
   workflow_dispatch:
 
 jobs:
@@ -18,15 +18,13 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: |
-          cd $GITHUB_WORKSPACE
-          pip install -r requirements.txt
+        working-directory: ${{ github.workspace }}
+        run: pip install -r requirements.txt
 
       - name: Run your script
+        working-directory: ${{ github.workspace }}
         env:
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
           TO_EMAIL: ${{ secrets.TO_EMAIL }}
-        run: |
-          cd $GITHUB_WORKSPACE
-          python job_search_automation.py
+        run: python job_search_automation.py
