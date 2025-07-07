@@ -22,4 +22,6 @@ jobs:
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
           TO_EMAIL: ${{ secrets.TO_EMAIL }}
-        run: python job_search_automation.py
+        run: |
+         cd $GITHUB_WORKSPACE
+         python job_search_automation.p
