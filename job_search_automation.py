@@ -7,9 +7,9 @@ from email.mime.text import MIMEText
 import datetime
 
 # Get credentials safely from environment
-EMAIL_USER = os.environ.get("jobapplicationsforthiru@gmail.com")
-EMAIL_PASS = os.environ.get("ybagrhzfobncolhr")
-TO_EMAIL   = os.environ.get("jobapplicationsforthiru@gmail.com")
+EMAIL_USER = os.environ.get("EMAIL_USER")
+EMAIL_PASS = os.environ.get("EMAIL_PASS")
+TO_EMAIL   = os.environ.get("TO_EMAIL")
 
 # Configurations
 KEYWORDS = ["software developer", "python developer", "web developer", "software analyst"]
