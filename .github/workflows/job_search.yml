@@ -24,4 +24,4 @@ jobs:
           TO_EMAIL: ${{ secrets.TO_EMAIL }}
         run: |
          cd $GITHUB_WORKSPACE
-         python job_search_automation.p
+         python job_search_automation.py
