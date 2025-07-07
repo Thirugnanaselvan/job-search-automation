@@ -8,7 +8,7 @@ import datetime
 
 # Get credentials safely from environment
 EMAIL_USER = os.environ.get("jobapplicationsforthiru@gmail.com")
-EMAIL_PASS = os.environ.get("ybag rhzf obnc olhr")
+EMAIL_PASS = os.environ.get("ybagrhzfobncolhr")
 TO_EMAIL   = os.environ.get("jobapplicationsforthiru@gmail.com")
 
 # Configurations
