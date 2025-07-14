@@ -29,8 +29,8 @@ platforms = {
     "Indeed - Chennai": "https://www.indeed.co.in/jobs?q=software+developer+fresher&l=Chennai",
     "Indeed - Bangalore": "https://www.indeed.co.in/jobs?q=software+developer+fresher&l=Bangalore",
     "AngelList - India": "https://angel.co/jobs",
-    "FreshersWorld": "https://www.freshersworld.com/jobs"
-    "Hirist - Tech Jobs India": "https://www.hirist.com/jobs",
+    "FreshersWorld": "https://www.freshersworld.com/jobs",
+    "Hirist - Tech Jobs India": "https://www.hirist.tech/c/frontend-development-jobs?ref=homepagecat&minexp=0&maxexp=1&loc=Chennai_Coimbatore_Karnataka_Tamil-Nadu_Remote_Bangalore&posting=3",
     "Foundit (ex Monster)": "https://www.foundit.in",
     "Glassdoor India": "https://www.glassdoor.co.in/Job/india-software-developer-jobs-SRCH_IL.0,5_IN115_KO6,25.htm",
     "Google Careers India": "https://careers.google.com/locations/india/",
