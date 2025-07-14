@@ -30,7 +30,7 @@ platforms = {
     "Indeed - Bangalore": "https://www.indeed.co.in/jobs?q=software+developer+fresher&l=Bangalore",
     "AngelList - India": "https://angel.co/jobs",
     "FreshersWorld": "https://www.freshersworld.com/jobs"
-    "Hirist - Tech Jobs India": "https://www.hirist.tech/c/frontend-development-jobs?ref=homepagecat&minexp=0&maxexp=1&loc=Anywhere-in-India_Metros_Delhi-NCR_Delhi_Ghaziabad_Faridabad_Gurgaon%2FGurugram_Noida_Mumbai_Kolkata_Bangalore_Pune_Hyderabad_Chennai_Surat_Vishakhapatnam%2FVizag_Ahmedabad_Amritsar_Andhra-Pradesh_Aurangabad_Bhubaneshwar_Bihar_Chandigarh_Chhattisgarh_Cochin%2FKochi_Coimbatore_Cuttack_Dehradun_Gandhinagar_Goa_Greater-Noida_Gujarat_Guntur_Guwahati_Haridwar_Haryana_Hosur_Hubli_Jaipur_Jalandhar_Jammu_Jammu-%26-Kashmir_Jamshedpur_Jharkhand_Jodhpur_Karnataka_Kerala_Lucknow_Ludhiana_Madurai_Maharashtra_MP_Mysore_Nagpur_Nasik_Navi-Mumbai_Odisha_Panipat_Patiala_Patna_Pondicherry_Punjab_Raipur_Rajasthan_Rajkot_Ranchi_Sonipat_Srinagar_Tamil-Nadu_Telangana_Thane_Trivandrum%2FThiruvananthapuram_Udaipur_UP_Uttarakhand_Vadodara%2FBaroda_Varanasi%2FBanaras_Vijayawada_Warangal_Arunachal-Pradesh_Assam_Bhopal_Indore_Manipur_Meghalaya_Mizoram_Nagaland_Tripura_West-Bengal_Mohali&posting=3",
+    "Hirist - Tech Jobs India": "https://www.hirist.com/jobs",
     "Foundit (ex Monster)": "https://www.foundit.in",
     "Glassdoor India": "https://www.glassdoor.co.in/Job/india-software-developer-jobs-SRCH_IL.0,5_IN115_KO6,25.htm",
     "Google Careers India": "https://careers.google.com/locations/india/",
